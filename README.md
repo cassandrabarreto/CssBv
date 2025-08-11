@@ -1,8 +1,9 @@
-# 🦌✨ Cassandra Barreto ✨
+# ✨ Cassandra Barreto ✨
 
 **`Software Engineer`**
 
-Hi I'm passionate about music, technology and videogames! 
+Hi! I’m currently working as a Software Consulting Engineer at Cisco, with over 6 years of experience as a software engineer. I enjoy working with networking, network automation, and coding. Go and Python are my favorite programming languages to use. I speak English and Spanish fluently, and I know a bit of Polish and Japanese.
+
 
    <p align="left">
       <a href="https://github.com/CssBv?tab=followers">
