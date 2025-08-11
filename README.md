@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-Hi! I’m currently working as a Software Consulting Engineer at Cisco, with over 6 years of experience as a Software Engineer. I enjoy working with networking, network automation, and coding. Go and Python are my favorite programming languages to use. I speak English and Spanish fluently, and I know a bit of Polish and Japanese.
+Hi! I’m currently working as a Software Consulting Engineer at Cisco Systems, with over 6 years of experience as a Software Consulting Engineer. I enjoy working with networking, network automation, and coding. 
 
 
    <p align="left">
