@@ -15,7 +15,7 @@ Hi I'm passionate about music, technology and videogames!
 
 ## 🧰 Tools and Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,postman,terraform,bash,django,go,docker,mongodb,postgres,rabbitmq,redhat,regex,unity,git,gitlab,grafana,github,ansible,flask,linux,vscode,discord,stackoverflow,figma,ps,apple,&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CssBv&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![My Skills](https://skillicons.dev/icons?i=python,cs,postman,terraform,bash,django,go,docker,mongodb,postgres,rabbitmq,redhat,regex,unity,git,kubernetes,gitlab,grafana,github,ansible,flask,linux,vscode,discord,stackoverflow,figma,ps,apple,&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CssBv&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 
