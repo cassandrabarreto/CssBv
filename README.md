@@ -28,11 +28,6 @@ Hi! I’m currently working as a Software Consulting Engineer at Cisco Systems, 
 
 ---
 
-<details>
- <summary><h3> My Coding Journey</h3></summary>
-    I started coding at the age of 1.
- 
-
 <!---
 CssBv/CssBv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
